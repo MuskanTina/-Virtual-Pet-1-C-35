@@ -1,1 +1,2 @@
-# -Virtual-Pet-1-C-35
+# synchronousBallMovement
+Ball moving synchronously
